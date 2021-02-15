@@ -1,0 +1,20 @@
+Daniel Brown
+201637022
+
+How to compile and run the game Lights Out:
+
+1. Extract the files from the submitted zip file.
+
+2. Open your Terminal/Console/Command prompt depending on your operating system.
+
+3. Open the directory to the location that you extracted the files through the use of the Terminal/Console/Command 
+   prompt mentioned above. The exact commands may differ based on your operating system and the location 
+   in which you extracted the files. 
+
+4. Once you are in the correct directory, enter: javac *.java
+
+5. Once this is complete, enter: java Driver
+
+6. Once the game opens, click on the squares to turn the lights on or off. The goal is to turn all of the lights off. 
+   If you wish to restart the game, click on the New Game button, this will reset the game. If you manage to switch 
+   off all of the lights, the game will congratulate you. Good luck, it is harder than it looks!
