@@ -5,7 +5,7 @@ import java.lang.*;
 
 /*
  *  The main window of the game Lights out.
- *  @author mhatcher & Daniel Brown
+ *  @author Daniel Brown
  *  September 24, 2020
  */
 public class WindowDemo extends JFrame implements ActionListener, MouseListener
