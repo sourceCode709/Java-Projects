@@ -1,6 +1,6 @@
 /*
  *  Main method to run the program.
- *  @author mhatcher & Daniel Brown
+ *  @author Daniel Brown
  *  September 24, 2020
  */
 public class Driver
