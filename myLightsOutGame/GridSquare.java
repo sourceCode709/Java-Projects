@@ -15,7 +15,7 @@ import java.awt.event.*;
  *  The game grid and allows the background colour to be set with ease.
  *  
  *
- *  @author mhatcher & Daniel Brown
+ *  @author Daniel Brown
  *  Septmber 24, 2020
  */
 public class GridSquare extends JButton
